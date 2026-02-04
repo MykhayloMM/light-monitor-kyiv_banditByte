@@ -362,7 +362,7 @@ def format_schedule_message(
     total_off = 0.0
     
     for period in periods:
-        emoji = "🟢" if period["is_on"] else "✖️"
+        emoji = "🟢" if period["is_on"] else "🟠"
         time_range = f"<code>{period['start']} - {period['end']}</code>"
         hours_text = format_hours(period["hours"])
         
@@ -375,7 +375,7 @@ def format_schedule_message(
     
     lines.append("")
     lines.append(f"🟢 Світло має бути за графіком: {format_hours(total_on)}")
-    lines.append(f"✖️ Світла не буде за графіком: {format_hours(total_off)}")
+    lines.append(f"🟠 Світла не буде за графіком: {format_hours(total_off)}")
     
     return "\n".join(lines)
 
