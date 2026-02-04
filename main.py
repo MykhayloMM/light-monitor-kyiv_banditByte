@@ -374,8 +374,8 @@ def format_schedule_message(
             total_off += period["hours"]
     
     lines.append("")
-    lines.append(f"☑️ Світло є: {format_hours(total_on)}")
-    lines.append(f"✖️ Світла нема: {format_hours(total_off)}")
+    lines.append(f"☑️ Світло має бути з графіком: {format_hours(total_on)}")
+    lines.append(f"✖️ Світла не буде за графіком: {format_hours(total_off)}")
     
     return "\n".join(lines)
 
