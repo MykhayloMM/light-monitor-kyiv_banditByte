@@ -362,7 +362,7 @@ def format_schedule_message(
     total_off = 0.0
     
     for period in periods:
-        emoji = "☑️" if period["is_on"] else "✖️"
+        emoji = "🟢" if period["is_on"] else "✖️"
         time_range = f"<code>{period['start']} - {period['end']}</code>"
         hours_text = format_hours(period["hours"])
         
@@ -374,7 +374,7 @@ def format_schedule_message(
             total_off += period["hours"]
     
     lines.append("")
-    lines.append(f"☑️ Світло має бути з графіком: {format_hours(total_on)}")
+    lines.append(f"🟢 Світло має бути за графіком: {format_hours(total_on)}")
     lines.append(f"✖️ Світла не буде за графіком: {format_hours(total_off)}")
     
     return "\n".join(lines)
@@ -617,7 +617,7 @@ def manage_messages(new_message_id: int):
 
 def main():
     config = load_config()
-    groups = config.get("groups", ["GPV12.1", "GPV18.1"])
+    groups = config.get("groups", ["GPV30.1"])
     region = config.get("region", "kyiv")
     yasno_region_id = config.get("yasno_region_id", "25")
     yasno_dso_id = config.get("yasno_dso_id", "902")
