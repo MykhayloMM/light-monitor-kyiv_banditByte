@@ -45,7 +45,7 @@ def load_config() -> dict:
             return json.load(f)
     except FileNotFoundError:
         return {
-            "groups": ["GPV12.1", "GPV18.1"],
+            "groups": ["GPV30.1"],
             "region": "kyiv",
             "yasno_region_id": "25",
             "yasno_dso_id": "902"
@@ -63,14 +63,14 @@ def format_hours(hours: float) -> str:
         hours = int(hours)
     
     if isinstance(hours, float):
-        return f"<b>{hours}</b> години"
+        return f"<b>{hours}</b> год"
     
     if hours % 10 == 1 and hours % 100 != 11:
-        return f"<b>{hours}</b> година"
+        return f"<b>{hours}</b> год"
     elif hours % 10 in [2, 3, 4] and hours % 100 not in [12, 13, 14]:
-        return f"<b>{hours}</b> години"
+        return f"<b>{hours}</b> год"
     else:
-        return f"<b>{hours}</b> годин"
+        return f"<b>{hours}</b> год"
 
 
 def format_time(minutes: int) -> str:
