@@ -30,8 +30,8 @@ DAYS_UA = {
 }
 
 # Separators
-SEP_SOURCE = "✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧"
-SEP_DAY = "■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■  ■"
+SEP_SOURCE = "✧ ✧ ✧"
+SEP_DAY = "■  ■  ■"
 
 SOURCE_GITHUB = "GitHub-ДТЕК"
 SOURCE_YASNO = "yasno"
