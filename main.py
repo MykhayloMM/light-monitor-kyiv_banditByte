@@ -35,7 +35,7 @@ SEP_DAY = "■  ■  ■"
 
 SOURCE_GITHUB = "GitHub-ДТЕК"
 SOURCE_YASNO = "yasno"
-MAX_MESSAGES = 3
+MAX_MESSAGES = 1
 
 
 def load_config() -> dict:
