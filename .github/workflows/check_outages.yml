@@ -2,7 +2,7 @@ name: Check Outages and Post to Telegram
 
 on:
   schedule:
-    - cron: '1 8 * * *'
+    - cron: '*/15 8-21 * * *'
   workflow_dispatch:
 
 jobs:
