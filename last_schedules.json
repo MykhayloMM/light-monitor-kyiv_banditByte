@@ -1,12 +1,8 @@
 {
   "github": {
     "GPV30.1": {
-      "2026-02-26": {
+      "2026-02-27": {
         "slots": [
-          true,
-          true,
-          false,
-          false,
           false,
           false,
           false,
@@ -33,9 +29,7 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
+          true,
           true,
           true,
           true,
@@ -50,11 +44,17 @@
           false,
           false,
           false,
-          false
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true
         ],
         "status": "normal"
       },
-      "2026-02-27": {
+      "2026-02-28": {
         "slots": null,
         "status": "pending"
       }
@@ -62,7 +62,60 @@
   },
   "yasno": {
     "GPV30.1": {
-      "2026-02-26": {
+      "2026-02-27": {
+        "slots": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true
+        ],
+        "status": "normal"
+      },
+      "2026-02-28": {
         "slots": [
           true,
           true,
@@ -112,59 +165,6 @@
           false,
           false,
           false
-        ],
-        "status": "normal"
-      },
-      "2026-02-27": {
-        "slots": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
         ],
         "status": "normal"
       }
