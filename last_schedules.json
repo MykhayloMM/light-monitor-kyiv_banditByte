@@ -1,11 +1,11 @@
 {
   "github": {
     "GPV30.1": {
-      "2026-03-15": {
+      "2026-03-16": {
         "slots": null,
         "status": "pending"
       },
-      "2026-03-16": {
+      "2026-03-17": {
         "slots": null,
         "status": "pending"
       }
@@ -13,59 +13,6 @@
   },
   "yasno": {
     "GPV30.1": {
-      "2026-03-15": {
-        "slots": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "status": "normal"
-      },
       "2026-03-16": {
         "slots": [
           true,
@@ -118,6 +65,10 @@
           true
         ],
         "status": "normal"
+      },
+      "2026-03-17": {
+        "slots": null,
+        "status": "pending"
       }
     }
   }
