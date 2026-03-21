@@ -2,8 +2,57 @@
   "github": {
     "GPV30.1": {
       "2026-03-21": {
-        "slots": null,
-        "status": "pending"
+        "slots": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "status": "normal"
       },
       "2026-03-22": {
         "slots": null,
@@ -14,6 +63,59 @@
   "yasno": {
     "GPV30.1": {
       "2026-03-21": {
+        "slots": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "status": "normal"
+      },
+      "2026-03-22": {
         "slots": [
           true,
           true,
@@ -65,10 +167,6 @@
           true
         ],
         "status": "normal"
-      },
-      "2026-03-22": {
-        "slots": null,
-        "status": "pending"
       }
     }
   }
