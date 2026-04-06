@@ -1,12 +1,23 @@
 {
-  "github": {},
-  "yasno": {
+  "github": {
     "GPV30.1": {
-      "2026-04-02": {
+      "2026-04-05": {
         "slots": null,
         "status": "pending"
       },
-      "2026-04-03": {
+      "2026-04-06": {
+        "slots": null,
+        "status": "pending"
+      }
+    }
+  },
+  "yasno": {
+    "GPV30.1": {
+      "2026-04-06": {
+        "slots": null,
+        "status": "pending"
+      },
+      "2026-04-07": {
         "slots": null,
         "status": "pending"
       }
