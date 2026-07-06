@@ -1,123 +1,14 @@
 {
-  "github": {
-    "GPV30.1": {
-      "2026-06-28": {
-        "slots": null,
-        "status": "pending"
-      },
-      "2026-06-29": {
-        "slots": null,
-        "status": "pending"
-      }
-    }
-  },
+  "github": {},
   "yasno": {
     "GPV30.1": {
-      "2026-06-29": {
-        "slots": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "status": "normal"
+      "2026-07-06": {
+        "slots": null,
+        "status": "pending"
       },
-      "2026-06-30": {
-        "slots": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "status": "normal"
+      "2026-07-07": {
+        "slots": null,
+        "status": "pending"
       }
     }
   }
