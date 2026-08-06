@@ -1,4 +1,4 @@
-name: Check Outages and Post to Telegram
+name: Check Outages and Post to Telegram1
 
 on:
   schedule:
