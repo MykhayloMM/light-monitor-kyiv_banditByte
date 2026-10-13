@@ -2,7 +2,7 @@
   "settings": {
     "region": "kyiv",
     "groups": ["GPV29.1"],
-    "style": "table",
+    "style": "list",
     "table_format": "code_lines",
     "max_messages": 2,
     "show_intervals_detail": true
