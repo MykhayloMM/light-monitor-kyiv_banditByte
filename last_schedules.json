@@ -1,16 +1,9 @@
 {
   "github": {
     "GPV29.1": {
-      "2026-11-06": {
+      "2026-11-07": {
         "status": "normal",
         "slots": [
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          true,
           true,
           true,
           true,
@@ -31,10 +24,13 @@
           false,
           false,
           false,
+          false,
           true,
           true,
           true,
           true,
+          true,
+          true,
           false,
           false,
           false,
@@ -50,6 +46,10 @@
           false,
           false,
           false,
+          true,
+          true,
+          true,
+          true,
           false,
           false
         ]
@@ -58,16 +58,9 @@
   },
   "yasno": {
     "GPV29.1": {
-      "2026-11-06": {
+      "2026-11-07": {
         "status": "normal",
         "slots": [
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          true,
           true,
           true,
           true,
@@ -88,10 +81,13 @@
           false,
           false,
           false,
+          false,
           true,
           true,
           true,
           true,
+          true,
+          true,
           false,
           false,
           false,
@@ -107,11 +103,15 @@
           false,
           false,
           false,
+          true,
+          true,
+          true,
+          true,
           false,
           false
         ]
       },
-      "2026-11-07": {
+      "2026-11-08": {
         "status": "pending",
         "slots": null
       }
