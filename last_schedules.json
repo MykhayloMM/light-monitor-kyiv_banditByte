@@ -1,7 +1,7 @@
 {
   "github": {
     "GPV29.1": {
-      "2026-11-26": {
+      "2026-11-27": {
         "status": "normal",
         "slots": [
           true,
@@ -20,20 +20,16 @@
           true,
           true,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           true,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
           true,
           true,
@@ -51,14 +47,18 @@
           false,
           false,
           false,
-          false
+          false,
+          true,
+          true,
+          true,
+          true
         ]
       }
     }
   },
   "yasno": {
     "GPV29.1": {
-      "2026-11-26": {
+      "2026-11-27": {
         "status": "normal",
         "slots": [
           true,
@@ -77,20 +77,16 @@
           true,
           true,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           true,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
           true,
           true,
@@ -108,10 +104,14 @@
           false,
           false,
           false,
-          false
+          false,
+          true,
+          true,
+          true,
+          true
         ]
       },
-      "2026-11-27": {
+      "2026-11-28": {
         "status": "pending",
         "slots": null
       }
